@@ -1,0 +1,2 @@
+# ishadow-wiki
+iShadowSSR Wiki
